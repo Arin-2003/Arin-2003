@@ -33,9 +33,7 @@ I'm a PGDM student specializing in **Marketing and Finance** with a strong backg
 - Microsoft Excel  
 - Power BI  
 - Data Visualization  
-- Team & Time Management  
-- Problem Solving  
-- Strategic Thinking  
+- Team & Time Management    
 
 ---
 
